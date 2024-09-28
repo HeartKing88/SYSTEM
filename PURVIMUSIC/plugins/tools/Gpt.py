@@ -2,7 +2,7 @@
 import os
 import random
 import time
-from SONALI import app
+from PURVIMUSIC import app
 import requests
 from pyrogram.types import  Message
 from pyrogram.types import InputMediaPhoto
